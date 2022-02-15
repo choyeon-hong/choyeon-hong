@@ -1,9 +1,9 @@
 <h1 align="center"> Choyeon Hong </h1>
 
 <h3>Project</h3>
-I've been working at Seoul National University Hospital.
-My field is data analysis, machine leanrning, statistics and digital pathology.
-
+I've been working at Seoul National University Hospital.   
+My field is data analysis, machine leanrning, statistics and digital pathology.   
+   
 <h3>🛠Languages and Tools</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
