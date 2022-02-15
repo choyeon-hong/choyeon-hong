@@ -1,6 +1,6 @@
 <h1 align="center"> Choyeon Hong </h1>
 
-<h3>Project</h3>
+<h3>Introduction</h3>
 I've been working at Seoul National University Hospital.   
 My field is data analysis, machine leanrning, statistics and digital pathology.   
    
