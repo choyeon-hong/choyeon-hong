@@ -1,9 +1,9 @@
-<h1 align="center"> Choyeon Hong </h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Choyeon Hong%20render&fontSize=90)
 
 <h3>Introduction</h3>
-I've been working at Seoul National University Hospital.   </a>&nbsp;
-My field is data analysis, machine leanrning, statistics and digital pathology.   </a>&nbsp;
-   
+My field is data analysis, machine leanrning, statistics and digital pathology. I've been working as a researcher for 4 years. 
+*Currently, I am staying in South Korea.*
+
 <h3>🛠Languages and Tools</h3>
 <div>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp; 
@@ -15,11 +15,11 @@ My field is data analysis, machine leanrning, statistics and digital pathology. 
 </div>
 
 <h3>More information</h3>
-<a href="https://">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link="
+<a href="https://https://chonny.tistory.com">
+    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=ttps://https://chonny.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://@gmail.com"
+<a href="https://eunice1615@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://eunice1615@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
