@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=5D3FD3&height=300&section=header&text=Choyeon%20Hong&fontColor=FFFFFF&fontSize=90)
 
 <h3>Introduction</h3>
-<a>My field is data analysis, machine leanrning, statistics and digital pathology. I've been working as a researcher for 4 years. 
-*Currently, I am staying in South Korea.*</a>
+My field is data analysis, machine leanrning, statistics and digital pathology. <br/>
+I've been working as a researcher for 4 years. <br/>
+*Currently, I am staying in South Korea.*<br/><br/>
 
 <h3>🛠Languages and Tools</h3>
 <div>
