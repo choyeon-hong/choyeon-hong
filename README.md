@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=5D3FD3&height=300&section=header&text=Choyeon%20Hong&fontColor=FFFFFF&fontSize=90)
 
 <h3>😊Introduction</h3>
-My field is data analysis, machine leanrning, statistics and digital pathology. <br/>
+My fields are data analysis, machine leanrning, statistics and digital pathology. <br/>
 I've been working as a researcher for 4 years. <br/>
 <em>Currently, I am staying in South Korea.</em><br/><br/>
 
