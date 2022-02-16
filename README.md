@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Choyeon Hong%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=5D3FD3&height=300&section=header&text=Choyeon%20Hong&fontColor=FFFFFF&fontSize=90)
 
 <h3>Introduction</h3>
 My field is data analysis, machine leanrning, statistics and digital pathology. I've been working as a researcher for 4 years. 
