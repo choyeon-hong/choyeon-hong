@@ -3,7 +3,7 @@
 <h3>Introduction</h3>
 My field is data analysis, machine leanrning, statistics and digital pathology. <br/>
 I've been working as a researcher for 4 years. <br/>
-*Currently, I am staying in South Korea.*<br/><br/>
+<em>Currently, I am staying in South Korea.</em><br/><br/>
 
 <h3>🛠Languages and Tools</h3>
 <div>
