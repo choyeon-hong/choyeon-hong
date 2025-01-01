@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=5D3FD3&height=300&section=header&text=Choyeon%20Hong&fontColor=FFFFFF&fontSize=90)
 
 <h3>😊Introduction</h3>
-I worked as an AI researcher for 5 years. <br/>
-Developed machine learning models based on Python <br/>
-Experienced natural languaage processing. <br/>
-Built SQL and No SQL databases. <br/>
-My fields are data analysis, computer vision, machine leanrning, natural language processing and digital pathology. <br/>
-I'm a MSc Information Technology Candidate at University of Glasgow. <br/>
-<em>I am staying in the U.K.</em><br/><br/>
+
+👋 Hi, I’m an AI researcher with 5+ years of experience! <br/>
+📊 Skilled in data analysis, machine learning, NLP, and computer vision.  <br/>
+🧠 Built ML models in Python and worked on digital pathology projects.  <br/>
+🛠️ Proficient in SQL/NoSQL database design.  <br/>
+🎓 MSc Information Technology candidate @ University of Glasgow.  <br/>
+🌍 <em> Based in the UK. </em><br/>
+
+Never be ordinary! 🚀 <br/><br/>
 
 <h3>🛠Languages and Tools</h3>
 <div>
