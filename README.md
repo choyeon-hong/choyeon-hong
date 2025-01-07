@@ -27,6 +27,10 @@ Never be ordinary! 🚀 <br/><br/>
 </div>
 
 <h3>☑️More information</h3>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57219472918">
+    <img src="http://img.shields.io/badge/scopus-E9711C?style=flat&logo=scopus&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=57219472918"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <a href="https://orcid.org/0000-0002-9209-9719">
     <img src="http://img.shields.io/badge/orcid-A6CE39?style=flat&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-9209-9719"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
