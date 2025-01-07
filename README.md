@@ -28,18 +28,22 @@ Never be ordinary! 🚀 <br/><br/>
 
 <h3>☑️More information</h3>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57219472918">
-    <img src="http://img.shields.io/badge/scopus-E9711C?style=flat&logo=Scopus&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=57219472918"
+    <img src="http://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white"
+        alt="Scopus"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://orcid.org/0000-0002-9209-9719">
-    <img src="http://img.shields.io/badge/orcid-A6CE39?style=flat&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0002-9209-9719"
+    <img src="http://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"
+        alt="ORCID"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://chonny.tistory.com">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://chonny.tistory.com"
+    <img src="http://img.shields.io/badge/Tech%20Blog-00D182?style=flat&logo=Emby&logoColor=white"
+        alt="Tech Blog"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://eunice1615@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://eunice1615@gmail.com"
+<a href="mailto:eunice1615@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"
+        alt="Gmail"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
