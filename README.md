@@ -3,7 +3,7 @@
 <h3>😊Introduction</h3>
 
 👋 Hi, I’m an AI researcher with 5+ years of experience! <br/>
-🎓 MSc Information Technology candidate @ University of Glasgow.  <br/>
+🎓 MSc Information Technology @ University of Glasgow.  <br/>
 📊 Skilled in data analysis, machine learning, NLP, and computer vision.  <br/>
 🧠 Built ML models in Python and worked on digital pathology projects.  <br/>
 🛠️ Proficient in SQL/NoSQL database design.  <br/>
@@ -16,14 +16,20 @@ Never be ordinary! 🚀 <br/>
 <div style="font-size: 0;">
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
 <img src ="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<img src ="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=flat&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
+<img src ="https://img.shields.io/badge/eclipse-2C2255.svg?&style=flat&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=PostgreSQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=ORACLE&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/XML-%23005FAD.svg?&style=flat&logo=XML&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/R-F276DC3?style=flat&logo=R&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-</a>
+<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+    
 </div>
 
 <h3>☑️More information</h3>
