@@ -4,10 +4,9 @@
 
 👋 Hi, I’m an AI researcher with 5+ years of experience! <br/>
 🎓 MSc Information Technology @ University of Glasgow.  <br/>
-📊 Skilled in data analysis, machine learning, NLP, and computer vision.  <br/>
-🧠 Built ML models in Python and worked on digital pathology projects.  <br/>
-🛠️ Proficient in SQL/NoSQL database design.  <br/>
-🌍 <em> Currently based in the UK. </em><br/>
+📊 Skilled in machine learning, data analysis, NLP and computer vision.  <br/>
+🧠 Built ML models in Python on medical projects and end-to-end ML pipelines.  <br/>
+🛠️ Proficient in SQL/NoSQL database design.<br/>
 🔗View my publication on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219472918) <br/>
 
 Never be ordinary! 🚀 <br/>
